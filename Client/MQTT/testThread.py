@@ -1,3 +1,4 @@
+"""testThread — Network analysis module."""
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
  

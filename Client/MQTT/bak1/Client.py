@@ -1,3 +1,4 @@
+"""Client — Network analysis module."""
 import json
 import time
 import paho.mqtt.client as mqtt

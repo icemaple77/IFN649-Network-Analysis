@@ -1,3 +1,4 @@
+"""send — Network analysis module."""
 import random
 import time
 import sys

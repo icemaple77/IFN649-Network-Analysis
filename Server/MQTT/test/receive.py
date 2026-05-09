@@ -1,3 +1,4 @@
+"""receive — Network analysis module."""
 import random
 import re
 

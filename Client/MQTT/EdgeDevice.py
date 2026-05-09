@@ -1,3 +1,4 @@
+"""EdgeDevice — Network analysis module."""
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 import random 

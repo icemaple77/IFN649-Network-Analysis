@@ -1,3 +1,4 @@
+"""mqtt_pub_time — Network analysis module."""
 # encoding:UTF-8
 #send data to the gpio topic periodly
 import paho.mqtt.client as mqtt

@@ -1,3 +1,4 @@
+"""clientB — Network analysis module."""
 import paho.mqtt.client as mqtt
 import json
 import serial

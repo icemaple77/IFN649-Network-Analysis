@@ -1,3 +1,4 @@
+"""controller — Network analysis module."""
 import serial
 
 ser = serial.Serial("/dev/rfcomm2", 9600)

@@ -1,3 +1,4 @@
+"""111 — Network analysis module."""
 #!/usr/bin/python3
 
 import random

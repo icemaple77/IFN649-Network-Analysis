@@ -1,3 +1,4 @@
+"""pub — Network analysis module."""
 # python 3.6
 import random
 import time

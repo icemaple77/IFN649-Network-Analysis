@@ -1,3 +1,4 @@
+"""clientA — Network analysis module."""
 #!/usr/bin/python3.9
 import serial
 import time
